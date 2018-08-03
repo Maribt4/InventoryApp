@@ -1,3 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Inventory App</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All items</string>
+    <string name="editor_activity_title_new_item">Add an item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="hint_item_price">Price</string>
+    <string name="hint_item_quantity">Quantity</string>
+    <string name="hint_item_supplier_name">Supplier Name</string>
+    <string name="hint_item_supplier_phone">Supplier Phone</string>
+    <string name="unit_item_pric">kg</string>
+    <string name="editor_insert_item_failed">item creation failed</string>
+    <string name="editor_insert_item_successful">item created</string>
+    <string name="editor_update_item_failed">item update failed</string>
+    <string name="editor_update_item_successful">item updated successful</string>
+    <string name="editor_fill_all_fields">Please fill all fields</string>
+    <string name="empty_view_title_text">No Gadgets on stock</string>
+    <string name="empty_view_subtitle_text">Insert dummy data  or add an item manually</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete_all_dialog_msg">Delete all items?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="negative_quantity">No negative quantities allowed</string>
 </resources>
